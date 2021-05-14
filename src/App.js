@@ -33,7 +33,7 @@ const options = [
   },
 ];
 
-const App = ({ options }) => {
+const App = () => {
   return (
     <div>
       {/* <Accordion items={items} /> */}
